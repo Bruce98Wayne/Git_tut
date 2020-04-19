@@ -9,3 +9,7 @@ func mult(a, b) {
 func Subt(a, b) {
     return a -b;
 }
+
+func divide(a, b) {
+    return a/b;
+}
